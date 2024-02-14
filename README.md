@@ -15,9 +15,15 @@ En este proyecto, se nos presenta el desafío de asumir el papel de un Analista 
 
 # (ETL) Extraccion, Transformacion y Carga
 
-En un primer paso, abordamos el archivo homicidios.xslx realizando un proceso de Extracción, Transformación y Carga (ETL). Extraímos y organizamos la información de ambas pestañas en dataframes separados. Luego, revisamos y manejamos los datos nulos, identificamos duplicados, elegimos y unificamos tipos de datos, y eliminamos algunas columnas. Realizamos transformaciones para abordar los vacíos existentes y dejar la data en las mejores condiciones para el análisis exploratorio (EDA) y la presentación en el Dashboard. Finalmente, combinamos ambos dataframes en uno completo, que exportamos en formato CSV. Todo el proceso está detallado y documentado en el archivo [ETL.ipynb](ETL.ipynb)
+En el notebook [ETL.ipynb](ETL.ipynb), llevamos a cabo el proceso de Extracción, Transformación y Carga (ETL) utilizando bibliotecas como Numpy, Pandas, BeautifulSoup y Requests en Python. Extrajimos datos de ambas hojas de un libro de Excel, realizamos diversas transformaciones como eliminar columnas redundantes, normalizar tipos de datos y fusionar dataframes. Abordamos la gestión de valores nulos, reemplazando 'SD' con etiquetas más descriptivas y, en algunos casos, imputando valores basados en estadísticas como la media de edades presentes en el conjunto de datos.
 
-Además, empleamos web scraping para obtener datos históricos de la población de Buenos Aires desde Wikipedia, con el propósito de analizar la variabilidad en la población y correlacionarla con las tasas de accidentes en el periodo de 2016 a 2021, aqui pueden encontrar todo el procedimiento que llevamos acabo con web scraping:[Web_Scraping.ipynb](Web_Scraping.ipynb) "
+Además, empleamos web scraping para obtener datos históricos de la población de Buenos Aires desde Wikipedia, con el propósito de analizar la variabilidad en la población y correlacionarla con las tasas de accidentes en el periodo de 2016 a 2021, aqui pueden encontrar todo el procedimiento que llevamos acabo con web scraping:[Web_Scraping.ipynb](Web_Scraping.ipynb).
+
+El resultado del proceso ETL genero archivos CSV que permitieron realizar el Analisis Exploratorio de Datos (EDA) detallado, asi como la construccion de un dashboard en Power BI. se crearon dos KPIs propuestos:
+
+- **Reduccion de Accidentalidad:** se propone una reduccion del 10% en la accidentalidad respecto al semestre anterior
+
+- **Reduccion de Accidentalidad en Motos:**se busca disminuir la accidentalidad en motos en un 7% respecto al año anterior.
 
 
 
