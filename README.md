@@ -74,5 +74,7 @@ El analisis que hicimos arrojo una panoramica detallada de la accidental vial re
 
 - Se registro un total de tres victimas en el 0.4% de los accidentes, sumando un total de 3 casos.
 
+## 3- Tendencia hacia que los conductores sean las víctimas mortales predominantes en accidentes de tráfico, seguidos de cerca por los peatones, aunque con una diferencia notable
+![Imagen](Images/grafico3.png)
 
-
+- Mas del 40% del total de victimas registradas en nuestro dataset corresponde a conductores, seguido de peatones en segundo lugar y pasajeros/acompañantes en tercer lugar
