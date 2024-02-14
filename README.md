@@ -21,7 +21,7 @@ El equipo de SoyHenry nos proporciono un dataset que aborda informacion de victi
 
 - **VICTIMAS:** Contiene una fila para cada victima de los hechos y las variables edad, sexo, rol y modo de desplazamiento asociadas a cada victima.
 
-- **FUENTE DE DATOS:** El dataset fue descargado en [este enlace](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales) y tambien podemos encontrarlo en este proyecto, exactamente en la carpeta [Data](data).
+- **FUENTE DE DATOS:** El dataset fue descargado en [este enlace](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales) y tambien podemos encontrarlo en este proyecto, exactamente en la carpeta [data](data).
 
 
 
@@ -38,6 +38,17 @@ El resultado del proceso ETL genero archivos CSV que permitieron realizar el Ana
 - **Reduccion de Accidentalidad:** se propone una reduccion del 10% en la accidentalidad respecto al semestre anterior
 
 - **Reduccion de Accidentalidad en Motos:** se busca disminuir la accidentalidad en motos en un 7% respecto al año anterior.
+
+
+## (EDA) Analisis Exploratorio de Datos
+
+Se llevo a cabo el proceso de Analisis Exploratorio de Datos, que incluyo la creacion y visualizacion de graficos para comprender mejor las relaciones entre las varables y entender el comportamiento del fenomeno. todo el proceso esta detalladamente documentado y comentado en el archivo [EDA.ipynb](EDA.ipynb)
+
+Durante este analisis, se realizaron observaciones considerando diferentes dimensiones, como demograficas (edad, sexo), espaciales (comuna, tipo de calle) y temporales (año, mes, hora del día) de los datos disponibles. con los graficos generados se comprendieron algunos aspectos claves del problea como:
+
+- Tendencia de indices de accidentalidad a lo largo de los años.
+
+- Cantidad de victimas por accidente, distribucion por sexo y edades.
 
 
 
