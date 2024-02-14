@@ -2,3 +2,5 @@
 
 
 ## Introduccion
+
+['Holaaaa'](Images/grafico1.png)
