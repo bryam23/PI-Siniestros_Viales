@@ -1,5 +1,6 @@
 #                                                       PROYECTO INDIVIDUAL: SINIESTROS VIALES
 
+![Imagen](Images/Siniestro.png)
 
 ## Contexto
 
