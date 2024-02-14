@@ -65,6 +65,14 @@ El analisis que hicimos arrojo una panoramica detallada de la accidental vial re
 
 - Evidentemente 2020 fue el año que presento menos victimas mortales en accidentes de transito, se asume que esto sucedio debido a las leyes de confinamiento por el COVID-19 que llevo a una baja conduccion de vehiculos y circulacion de peatones en las calles.
 
+## 2- Distribucion heterogenea en el numero de victimas por accidente, con mayor recuerrencia en accidentes con una victima
+![Imagen](Images/grafico2.png)
+
+- Se registro una victima en el 94.3% de los accidentes, sumando un total de 674 casos.
+
+- Se registro dos victimas en el 5.3% de los accidentes, sumando un total de 38 casos.
+
+- Se registro un total de tres victimas en el 0.4% de los accidentes, sumando un total de 3 casos.
 
 
 
