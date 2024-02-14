@@ -112,12 +112,18 @@ Aunque las categorias se clasifican como avenidas, calles y autopistas, la gener
 
 ## Pagina 1: Analisis Temporal
 
-En esta pagina, se encuentra un analisis temporal detallado de los siniestros viales. se dispone de un tablero de busqueda que permite seleccionar un año específico o un rango de años.
+En esta pagina, encontraras un analisis detallado de la evolucion temporal de los siniestros viales. utilizando un panel de busqueda, puedes seleccionar un año específico o un rango de años y obtener información sobre:
 
-- Numero de victimas para el periodo seleccionado
+- Numero de victimas para el periodo elegido
 
 - Distribucion de victimas por año y meses
 
-- Distribucion por sexos en un grafico de torta para cada adaptacion temporal
+- Distribucion por sexos representada en grafico de torta para diferentes periodos temporales
 
 ![Imagen](Images/Pagina_1.png)
+
+## Pagina 2: Analisis Geografico
+
+En esta página se presenta un analisis geografico a traves de un mapa interactivo que exhibe la distribuccion de los accidentes. puedes aplicar filtros como  como año, comuna, tipo de víctima y tipo de calle, para obtener información específica y detallada.
+
+![Imagen](Images/Pagina_2.png)
