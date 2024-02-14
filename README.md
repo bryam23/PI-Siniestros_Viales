@@ -1,7 +1,7 @@
 #                                                       PROYECTO INDIVIDUAL: SINIESTROS VIALES
 
 
-## Introduccion
+# Contexto
 
 El objetivo de este proyecto es examinar y enfrentar los problemas relacionados con los accidentes de tráfico en Buenos Aires. Utilizando la información suministrada por el Observatorio de Movilidad y Seguridad Vial de la Secretaría de Transporte de la Ciudad Autónoma de Buenos Aires, buscamos entender los incidentes viales, descubrir patrones, sugerir estrategias preventivas y evaluar el impacto de las medidas tomadas.
 
@@ -15,6 +15,9 @@ En este proyecto, se nos presenta el desafío de asumir el papel de un Analista 
 
 # (ETL) Extraccion, Transformacion y Carga
 
-En el notebook [ETL.ipynb](ETL.ipynb), se llevo a cabo todo el proceso de ETL utilizando bibliotecas como Numpy, Pandas, BeautifulSoup y Requests en Python. Extrajimos datos de ambas hojas de un libro de Excel, realizamos diversas transformaciones como eliminar columnas redundantes, normalizar tipos de datos y fusionar dataframes. Abordamos la gestión de valores nulos, reemplazando 'SD' con etiquetas más descriptivas y, en algunos casos, imputando valores basados en estadísticas como la media de edades presentes en el conjunto de datos. 
+En un primer paso, abordamos el archivo homicidios.xslx realizando un proceso de Extracción, Transformación y Carga (ETL). Extraímos y organizamos la información de ambas pestañas en dataframes separados. Luego, revisamos y manejamos los datos nulos, identificamos duplicados, elegimos y unificamos tipos de datos, y eliminamos algunas columnas. Realizamos transformaciones para abordar los vacíos existentes y dejar la data en las mejores condiciones para el análisis exploratorio (EDA) y la presentación en el Dashboard. Finalmente, combinamos ambos dataframes en uno completo, que exportamos en formato CSV. Todo el proceso está detallado y documentado en el archivo [ETL.ipynb](ETL.ipynb)
 
 Además, empleamos web scraping para obtener datos históricos de la población de Buenos Aires desde Wikipedia, con el propósito de analizar la variabilidad en la población y correlacionarla con las tasas de accidentes en el periodo de 2016 a 2021, aqui pueden encontrar todo el procedimiento que llevamos acabo con web scraping:[Web_Scraping.ipynb](Web_Scraping.ipynb) "
+
+
+
