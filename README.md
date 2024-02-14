@@ -56,8 +56,15 @@ Durante este analisis, se realizaron observaciones considerando diferentes dimen
 
 El analisis que hicimos arrojo una panoramica detallada de la accidental vial registrada, revelando varios puntos claves:
 
-## 2- Tendencia al alza en la cantidad de accidentes por año, con cambios signifcativos entre los años, destacando un repunte en 20
+## 1- Tendencia al alza en la cantidad de accidentes por año, con cambios signifcativos entre los años, destacando un repunte en 20
 ![Imagen](Images/grafico1.png)
+
+- Durante el periodo commprendido entre el año 2016 y 2018, observamos una tendencia ascendente en los indices de victimas mortales por accidentes de transito.
+
+- Durante el lapso entre los años 2018 y 2019, se evidencia una gran reduccion en los indices de victimas mortales en accidentes de transito.
+
+- Evidentemente 2020 fue el año que presento menos victimas mortales en accidentes de transito, se asume que esto sucedio debido a las leyes de confinamiento por el COVID-19 que llevo a una baja conduccion de vehiculos y circulacion de peatones en las calles.
+
 
 
 
