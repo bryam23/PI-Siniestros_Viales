@@ -127,3 +127,28 @@ En esta pagina, encontraras un analisis detallado de la evolucion temporal de lo
 En esta página se presenta un analisis geografico a traves de un mapa interactivo que exhibe la distribuccion de los accidentes. puedes aplicar filtros como  como año, comuna, tipo de víctima y tipo de calle, para obtener información específica y detallada.
 
 ![Imagen](Images/Pagina_2.png)
+
+## Pagina 3: KPI 1
+
+En esta pagina se evalua el primer KPI propuesto: nos pide como objetivo reducir en un 10% la tasa de mortalidad en siniestros viales respecto al semestre anterior en la ciudad de Buenos Aires.
+Se presentan analisis especificos y metricas relevantes para determinar si se ha cumplido el objetivo
+
+![Imagen](Images/Pagina_3.png)
+
+## Pagina 4: KPI 2
+
+En esta cuarta y ultima pagina del dashboard tiene como centro el segundo KPI propuesto, que analiza la reduccion de la tasa de mortalidad para motos en un 7% con respecto al año anterior
+
+![Imagen](Images/Pagina_4.png)
+
+
+# Desarrollo del proyecto detalladamente documento y comentado en los siguientes archivos:
+
+- [ETL.ipynb](ETL.ipynb)
+
+- [Web_Scraping.ipynb](Web_Scraping.ipynb)
+
+- [EDA.ipynb](EDA.ipynb)
+
+
+- **Alumno:** Bryam Guerrero Tejeda
