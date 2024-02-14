@@ -78,3 +78,31 @@ El analisis que hicimos arrojo una panoramica detallada de la accidental vial re
 ![Imagen](Images/grafico3.png)
 
 - Mas del 40% del total de victimas registradas en nuestro dataset corresponde a conductores, seguido de peatones en segundo lugar y pasajeros/acompañantes en tercer lugar
+
+## 4- Existencia de patrones en los rangos de edad de conductores y peatones relacionados con la accidentalidad
+![Imagen](Images/grafico5.png)
+
+- Se evidencia que la mayoria de accidentes involucra a victimas que se encuentran en el rango de 21 a 40 años, siendo en su mayoria conductores masculinos
+
+## 5- Variacion en la frecuencia de accidentes segun tipos de calles y comunas, señalando areas especificas para mejoras en la infraestructura vial y programas de educacion
+![Imagen](Images/grafico7.png)
+
+- Segun los datos del grafico, las avenidas registran el mayor numero de casos, con gran diferencia al superar los 400 casos, le siguen las calles con mas de 100 accidentes, tanto las autopistas como la general paz tienen una cantidad similar de accidentes, pero inferior a 100 casos.
+Aunque las categorias se clasifican como avenidas, calles y autopistas, la general paz no se asigna a ninguna de las tres, dado que no existe un consenso sobre si se considera avenida o autopista.
+
+## 6- Patrones diferenciales en la distribucion por sexo de las victimas y responsables, sugiriendo posibles disparadidades en la exposicion y factores de riesgos asociados
+![Imagen](Images/grafico9.png)
+
+- Se observa que la mayor cantidad de victimas en accidentes, aproximadamente 300 en total, son motociclistas. por otro lado, la mayoria de acusados en estos accidentes son conductores de autos.
+
+- Los peatones son la segunda categoria con mayor cantidad de victimas en accidentes de trafico, superados unicamente por los motociclistas.
+
+- Las bicicletas muestran una baja participacion tanto como victimas como de acusados, podriamos concluir que se consideran vehiculos seguros en terminos de incidencia en eventos viales.
+
+- Top 3 de victimas en accidentes es de motos, peatones y automoviles.
+
+![Imagen](Images/grafico4.png)
+
+- Observamos que mas el 70% de las victimas mortales en accidentes son hombres, mostrando una amplia diferencia con las mujeres, quienes representan un poco mas del 20% de las victimas. ademas, hay un grupo donde el sexo no esta identificado, representando al menos al 5% de las victimas
+
+**Estos hallazgos proporcionan un sólido fundamento para dirigir estrategias preventivas y mejorar la seguridad vial. Además, invitan a investigaciones más detalladas para comprender a fondo los factores subyacentes a estas tendencias, con el objetivo de ofrecer soluciones más precisas y efectivas en la prevención de accidentes de tránsito."**
