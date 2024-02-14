@@ -106,3 +106,18 @@ Aunque las categorias se clasifican como avenidas, calles y autopistas, la gener
 - Observamos que mas el 70% de las victimas mortales en accidentes son hombres, mostrando una amplia diferencia con las mujeres, quienes representan un poco mas del 20% de las victimas. ademas, hay un grupo donde el sexo no esta identificado, representando al menos al 5% de las victimas
 
 **Estos hallazgos proporcionan un sólido fundamento para dirigir estrategias preventivas y mejorar la seguridad vial. Además, invitan a investigaciones más detalladas para comprender a fondo los factores subyacentes a estas tendencias, con el objetivo de ofrecer soluciones más precisas y efectivas en la prevención de accidentes de tránsito."**
+
+
+# Dashboard Power BI
+
+## Pagina 1: Analisis Temporal
+
+En esta pagina, se encuentra un analisis temporal detallado de los siniestros viales. se dispone de un tablero de busqueda que permite seleccionar un año específico o un rango de años.
+
+- Numero de victimas para el periodo seleccionado
+
+- Distribucion de victimas por año y meses
+
+- Distribucion por sexos en un grafico de torta para cada adaptacion temporal
+
+![Imagen](Images/Pagina_1.png)
