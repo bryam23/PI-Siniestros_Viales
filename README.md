@@ -3,4 +3,4 @@
 
 ## Introduccion
 
-![Image](Images/grafico1.png)
+![Image](Images/Siniestro.png)
