@@ -1,19 +1,20 @@
 #                                                       PROYECTO INDIVIDUAL: SINIESTROS VIALES
 
 
-# Contexto
+## Contexto
 
 El objetivo de este proyecto es examinar y enfrentar los problemas relacionados con los accidentes de tráfico en Buenos Aires. Utilizando la información suministrada por el Observatorio de Movilidad y Seguridad Vial de la Secretaría de Transporte de la Ciudad Autónoma de Buenos Aires, buscamos entender los incidentes viales, descubrir patrones, sugerir estrategias preventivas y evaluar el impacto de las medidas tomadas.
 
 
 
-# Rol a desarrollar
+## Rol a desarrollar
 
 En este proyecto, se nos presenta el desafío de asumir el papel de un Analista de Datos y llevar a cabo un análisis exhaustivo de los datos relacionados con la mortalidad en accidentes de tráfico en la ciudad de Buenos Aires. Nuestra tarea implica analizar y presentar la información de manera que se puedan identificar tendencias y tomar decisiones informadas sobre las medidas preventivas que podrían implementarse en el futuro para reducir los accidentes y las pérdidas de vidas debido a esta causa.
 
 
+# Desarrollo del proyecto
 
-# (ETL) Extraccion, Transformacion y Carga
+## (ETL) Extraccion, Transformacion y Carga
 
 En el notebook [ETL.ipynb](ETL.ipynb), llevamos a cabo el proceso de Extracción, Transformación y Carga (ETL) utilizando bibliotecas como Numpy, Pandas, BeautifulSoup y Requests en Python. Extrajimos datos de ambas hojas de un libro de Excel, realizamos diversas transformaciones como eliminar columnas redundantes, normalizar tipos de datos y fusionar dataframes. Abordamos la gestión de valores nulos, reemplazando 'SD' con etiquetas más descriptivas y, en algunos casos, imputando valores basados en estadísticas como la media de edades presentes en el conjunto de datos.
 
@@ -23,7 +24,7 @@ El resultado del proceso ETL genero archivos CSV que permitieron realizar el Ana
 
 - **Reduccion de Accidentalidad:** se propone una reduccion del 10% en la accidentalidad respecto al semestre anterior
 
-- **Reduccion de Accidentalidad en Motos:**se busca disminuir la accidentalidad en motos en un 7% respecto al año anterior.
+- **Reduccion de Accidentalidad en Motos:** se busca disminuir la accidentalidad en motos en un 7% respecto al año anterior.
 
 
 
