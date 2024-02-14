@@ -52,3 +52,11 @@ Durante este analisis, se realizaron observaciones considerando diferentes dimen
 
 
 
+## Conclusiones del Analisis Exploratorio de Datos
+
+El analisis que hicimos arrojo una panoramica detallada de la accidental vial registrada, revelando varios puntos claves:
+
+[Image](Images/grafico1.png)
+
+
+
