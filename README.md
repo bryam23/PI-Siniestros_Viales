@@ -12,6 +12,19 @@ El objetivo de este proyecto es examinar y enfrentar los problemas relacionados 
 En este proyecto, se nos presenta el desafío de asumir el papel de un Analista de Datos y llevar a cabo un análisis exhaustivo de los datos relacionados con la mortalidad en accidentes de tráfico en la ciudad de Buenos Aires. Nuestra tarea implica analizar y presentar la información de manera que se puedan identificar tendencias y tomar decisiones informadas sobre las medidas preventivas que podrían implementarse en el futuro para reducir los accidentes y las pérdidas de vidas debido a esta causa.
 
 
+
+## Datasets
+
+El equipo de SoyHenry nos proporciono un dataset que aborda informacion de victimas fatales en siniestros viales, la cual se encuentra en formato Excel(Homicidios.xslx). Este archivo contiene 2 hojas de datos:
+
+- **HECHOS:** Contiene una fila por cada accidente (hecho) con id unico y las variables temporales, espaciales y participantes asociadas al mismo.
+
+- **VICTIMAS:** Contiene una fila para cada victima de los hechos y las variables edad, sexo, rol y modo de desplazamiento asociadas a cada victima.
+
+- **FUENTE DE DATOS:** El dataset fue descargado en [este enlace](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales) y tambien podemos encontrarlo en este proyecto, exactamente en la carpeta [Data]](Data).
+
+
+
 # Desarrollo del proyecto
 
 ## (ETL) Extraccion, Transformacion y Carga
