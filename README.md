@@ -141,8 +141,9 @@ En esta cuarta y ultima pagina del dashboard tiene como centro el segundo KPI pr
 
 ![Imagen](Images/Pagina_4.png)
 
+## El trabajo del dashboard lo pueden encontrar aca: [Dashboard](Dashboard.pbix)
 
-# Desarrollo del proyecto detalladamente documento y comentado en los siguientes archivos:
+# El desarrollo del proyecto esta detalladamente documento y comentado en los siguientes archivos:
 
 - [ETL.ipynb](ETL.ipynb)
 
