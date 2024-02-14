@@ -56,7 +56,7 @@ Durante este analisis, se realizaron observaciones considerando diferentes dimen
 
 El analisis que hicimos arrojo una panoramica detallada de la accidental vial registrada, revelando varios puntos claves:
 
-[Image](Images/grafico1.png)
+(Images/grafico1.png)
 
 
 
