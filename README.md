@@ -3,4 +3,4 @@
 
 ## Introduccion
 
-[](Images/grafico1.png)
+(Images/grafico1.png)
